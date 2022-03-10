@@ -12,7 +12,9 @@ Prof. Me. Juliana Costa-Silva
 
 ## Aula 2 - 10/03/2022
 
-- [Anotações de aula (PDF)]()
-- Atividade de aula 2 (entrega até 17/03/2022 **19:00hs**): [Formulário AQUI]()
+- [Anotações de aula (PDF)](https://github.com/costasilvati/CompuNuvem/blob/main/aula2_ComputacaoEmNuvem_2022_1.pdf)
+- [Game de aula](https://create.kahoot.it/details/1c354180-3ee8-4f7f-bc17-0d843f348c07) (Disponível somente quando o jogo for iniciado em sala)
+- Formulário de Aula - Disponível as 20:50h
+
 
 
