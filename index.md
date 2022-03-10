@@ -1,3 +1,5 @@
+![Imagem ilustrativa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZhInSAN_yIGCoX3gIbCkqVhJthg4uNTRMg&usqp=CAU)
+
 # Computação em Nuvem
 Prof. Me. Juliana Costa-Silva
 
