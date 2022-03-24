@@ -32,5 +32,5 @@ Prof. Me. Juliana Costa-Silva
 ### Aula 4 - 24/03/2022
 
 - Artigo 1: [Computação em Nuvem: Conceitos, Tecnologias, Aplicações e Desafios](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/computacao_nuvem-with-cover-page.pdf)
-- Artigo 2: [Computação em Nuvem: Análise Comparativa de Ferramentas Open Source para IaaS] (https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/THOME_ERRC_2013.pdf)
+- Artigo 2: [Computação em Nuvem: Análise Comparativa de Ferramentas Open Source para IaaS](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/THOME_ERRC_2013.pdf)
 - Artigo 3: [Estudo comparativo sobre o uso do VMware e Xen Server na virtualização de Servidores](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/EstudocomparativosobreousodoVMwareeXenServernavirtualizaodeServidores.pdf)
