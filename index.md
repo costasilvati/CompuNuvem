@@ -29,6 +29,8 @@ Prof. Me. Juliana Costa-Silva
 - [Livro - Fundamentos da Computação em Nuvem](https://www.google.com.br/books/edition/Fundamentos_da_computa%C3%A7%C3%A3o_em_nuvem/F4ZIDwAAQBAJ?hl=pt-BR&gbpv=1&dq=livros+computa%C3%A7%C3%A3o+em+nuvem&printsec=frontcover)
 - [Livro - Computação em Nuvem - Nova Arquitetura de TI](https://www.google.com.br/books/edition/Computa%C3%A7%C3%A3o_em_Nuvem/d9RkCgAAQBAJ?hl=pt-BR&gbpv=1&dq=livros%20computa%C3%A7%C3%A3o%20em%20nuvem&pg=PA91&printsec=frontcover&bsq=livros%20computa%C3%A7%C3%A3o%20em%20nuvem)
 
+### Aula 4 - 24/03/2022
 
-
-
+- Artigo 1: [Computação em Nuvem: Conceitos, Tecnologias, Aplicações e Desafios](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/computacao_nuvem-with-cover-page.pdf)
+- Artigo 2: [Computação em Nuvem: Análise Comparativa de Ferramentas Open Source para IaaS] (https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/THOME_ERRC_2013.pdf)
+- Artigo 3: [Estudo comparativo sobre o uso do VMware e Xen Server na virtualização de Servidores](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/EstudocomparativosobreousodoVMwareeXenServernavirtualizaodeServidores.pdf)
