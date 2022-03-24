@@ -34,7 +34,7 @@ Prof. Me. Juliana Costa-Silva
 Escolha 1 dos artigos abaixo (Máximo 2 alunos por artigo):
 
 - Artigo 1: [Computação em Nuvem: Conceitos, Tecnologias, Aplicações e Desafios](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/computacao_nuvem-with-cover-page.pdf)
-- Artigo 2: [Computação em Nuvem: Análise Comparativa de Ferramentas Open Source para IaaS](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/THOME_ERRC_2013.pdf)
+- Artigo 2 (não pode ser escolhido 2 alunos já selecionaram este): [Computação em Nuvem: Análise Comparativa de Ferramentas Open Source para IaaS](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/THOME_ERRC_2013.pdf)
 - Artigo 3: [Estudo comparativo sobre o uso do VMware e Xen Server na virtualização de Servidores](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/EstudocomparativosobreousodoVMwareeXenServernavirtualizaodeServidores.pdf)
 
 ### Avaliação Parcial 2 (500pts)
@@ -49,6 +49,8 @@ Envie como resposta da atividade o link para o seu vídeo ou áudio (YouTube ou 
 - Entrega até 31/03/2022 as 19:00h - [Formulário AQUI](https://forms.office.com/r/YkmPPKc22T)
 
 #### Aluno - Artigo
-- Henry  - Artigo 3
+
 - Flavia - Artigo 1
-- Ruan   - Artigo 2
+- Henry  - Artigo 3
+- Lucas  - Artigo 2
+- Ruan   - Artigo 2 
