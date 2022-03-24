@@ -31,6 +31,8 @@ Prof. Me. Juliana Costa-Silva
 
 ## Aula 4 - 24/03/2022
 
+[Material de Aula 4](https://github.com/costasilvati/CompuNuvem/blob/main/anotacoes_de_aula/ComputacaoEmNuvem_2022_1%20-%20Copia.pdf)
+
 Escolha 1 dos artigos abaixo (Máximo 2 alunos por artigo):
 
 - Artigo 1 (não pode ser escolhido 2 alunos já selecionaram este): [Computação em Nuvem: Conceitos, Tecnologias, Aplicações e Desafios](https://github.com/costasilvati/CompuNuvem/blob/main/Materiais_de_apoio/computacao_nuvem-with-cover-page.pdf)
