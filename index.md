@@ -61,3 +61,11 @@ Envie como resposta da atividade o link para o seu vídeo ou áudio (YouTube ou 
 
 - [Anotções de Aula 5](https://github.com/costasilvati/CompuNuvem/blob/main/anotacoes_de_aula/ComputacaoEmNuvem_2022_1_aula5.pdf)
 - [Atividade de Aula - PARCIAL 200pts](https://forms.office.com/r/vv9QRPFJcT) - Disponível as 19:30h de 31/03/2011 até as 12:00h de 01/04/2022;
+
+## Aula 6 - 07/04/2022
+
+Para cada uma das 5 aulas anteriores, DESENVOLVA:
+- O que estudamos?
+- Quais são os principais pontos da aula?
+- Desenvolva uma pergunta objetiva (sobre o tema da aula);
+- Adicione as 5 perguntas (uma para cada aula) em um formulário do Google e [envie o para responder seu formulário AQUI](#)
