@@ -68,4 +68,4 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 - O que estudamos?
 - Quais são os principais pontos da aula?
 - Desenvolva uma pergunta objetiva (sobre o tema da aula);
-- Adicione as 5 perguntas (uma para cada aula) em um formulário do Google e [envie o para responder seu formulário AQUI](#)
+- Adicione as 5 perguntas (uma para cada aula) em um formulário do Google e [envie o para responder seu formulário AQUI](https://forms.office.com/r/6mxFxQUzbA)
