@@ -69,3 +69,9 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 - Quais são os principais pontos da aula?
 - Desenvolva uma pergunta objetiva (sobre o tema da aula);
 - Adicione as 5 perguntas (uma para cada aula) em um formulário do Google e [envie o para responder seu formulário AQUI](https://forms.office.com/r/6mxFxQUzbA)
+
+# Prova 1 - 21/04/2022
+
+## Aula 8 - 28/04/2022
+- Refazer a avaliação com consulta ao material - Atividade no AVA, Unidade 3 - Seção 1
+- Esta atividade é nota PARCIAL;
