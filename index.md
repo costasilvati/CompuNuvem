@@ -75,3 +75,7 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 ## Aula 8 - 28/04/2022
 - Refazer a avaliação com consulta ao material - Atividade no AVA, Unidade 3 - Seção 1
 - Esta atividade é nota PARCIAL;
+
+## Aula 9 - 05/05/2022
+- Atividade de aula no AVA a partir das 19:30h - Atividade no AVA, Unidade 3 - Seção 2 (Esta atividade é nota PARCIAL)
+- [Material de aula](https://github.com/costasilvati/CompuNuvem/blob/main/anotacoes_de_aula/)
