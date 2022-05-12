@@ -81,3 +81,4 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 
 ## Aula 10 - 12/05/2022
 - NOTA PARCIAL -> [Atividade de aula 9 e 10](https://forms.gle/WiPh2GDvwTiKxNf26)
+- Material para leitura - Apostila da disciplina - Pág. 68 a 81.
