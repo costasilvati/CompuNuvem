@@ -5,7 +5,7 @@ Prof. Me. Juliana Costa-Silva
 
 ## ATENÇÃO!!! 
 Em parceira da Kroton com a **AWS Academy** será disponibilizado aos alunos treinamento para a certificação em Cloud da AWS **de forma gratuita** para os nossos alunos.
-As inscrições devem ser realizadas no formulário: https://forms.office.com/r/ppSMfcFx6d
+[As inscrições devem ser realizadas no formulário:](https://forms.office.com/r/ppSMfcFx6d)
 
 ## Aula 1 - 03/03/2022
 
