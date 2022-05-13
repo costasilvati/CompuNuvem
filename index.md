@@ -83,5 +83,6 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 - [Material de aula](https://github.com/costasilvati/CompuNuvem/blob/main/anotacoes_de_aula/)
 
 ## Aula 10 - 12/05/2022
-- NOTA PARCIAL -> [Atividade de aula 9 e 10](https://forms.gle/WiPh2GDvwTiKxNf26)
+- NOTA PARCIAL -> [Atividade de aula 9 e 10](https://forms.gle/WiPh2GDvwTiKxNf26) - **ATÈ 19/05/2022 as 19:00h**
 - Material para leitura - Apostila da disciplina - Pág. 68 a 81.
+- Planilha de aula [Provedores_cloud.xlsx](https://github.com/costasilvati/CompuNuvem/blob/main/anotacoes_de_aula/Provedores_Cloud.xlsx)
