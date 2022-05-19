@@ -86,3 +86,7 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 - NOTA PARCIAL -> [Atividade de aula 9 e 10](https://forms.gle/WiPh2GDvwTiKxNf26) - **ATÈ 19/05/2022 as 19:00h**
 - Material para leitura - Apostila da disciplina - Pág. 68 a 81.
 - Planilha de aula [Provedores_cloud.xlsx](https://github.com/costasilvati/CompuNuvem/blob/main/anotacoes_de_aula/Provedores_Cloud.xlsx)
+
+## Aula 11 - 19/05/2022
+- [Crie uma conta github aqui](https://github.com/)
+- Utilize o código do TCC para fazer o versionamento.
