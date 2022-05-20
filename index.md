@@ -90,3 +90,4 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 ## Aula 11 - 19/05/2022
 - [Crie uma conta github aqui](https://github.com/)
 - Utilize o código do TCC para fazer o versionamento.
+- [Atividade de Aula PARCIAL](https://forms.gle/mSMvdYYpPjKv3mgK7)
