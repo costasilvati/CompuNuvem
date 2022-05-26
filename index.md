@@ -91,3 +91,6 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 - [Crie uma conta github aqui](https://github.com/)
 - Utilize o código do TCC para fazer o versionamento.
 - [Atividade de Aula PARCIAL](https://forms.gle/mSMvdYYpPjKv3mgK7)
+
+## Aula 12 - 26/05/2022
+- [Anotações de aula](https://github.com/costasilvati/CompuNuvem/blob/main/anotacoes_de_aula/ComputacaoEmNuvem_2022_1.pdf)
