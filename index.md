@@ -94,3 +94,4 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 
 ## Aula 12 - 26/05/2022
 - [Anotações de aula](https://github.com/costasilvati/CompuNuvem/blob/main/anotacoes_de_aula/ComputacaoEmNuvem_2022_1.pdf)
+- [Atividade PARCIAL](https://forms.gle/MJ6tUwDF44cjLB428)
