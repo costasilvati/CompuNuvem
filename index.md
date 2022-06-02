@@ -95,3 +95,30 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 ## Aula 12 - 26/05/2022
 - [Anotações de aula](https://github.com/costasilvati/CompuNuvem/blob/main/anotacoes_de_aula/ComputacaoEmNuvem_2022_1.pdf)
 - [Atividade PARCIAL](https://forms.gle/MJ6tUwDF44cjLB428)
+
+## Aula 13 - 02/06/2022
+Como avaliação 2 os alunos deverão desenvolver uma apostila Online (página Git) sobre um tema de computação em Nuvem e enviar o link e apresentar essa apostila no dia da avaliação; 
+
+O tema por aluno será sorteado, porém alguns alunos farão temas repetidos, visto que temos 5 temas e 8 alunos. Apesar disso a atividade é **INDIVIDUAL**;
+
+### Temas da Avaliação
+1. Serviços de processamento de dados para computação em nuvem; 
+2. Serviços de armazenamento e análise de dados em computação em nuvem;
+3. Modelos de arquitetura em nuvem;
+4. Qualidade de serviço em nuvem;
+5. Segurança e privacidade em nuvem;
+
+
+![Print do sorteio](https://bl3301files.storage.live.com/y4mU57XQ0talmhicdTMbyicbkNSxgnY1Ymrr1nBXgDQs5prF2t2fLIW5RNDaoFAtHhhoqyStkzwee0nxL9J6mK7tlcClSW_ZXWjlTUQ7Ez2yADTwU4J-dvxZ7YNe9nhVKQFEFopMz7bOHhHs5IA2GodFXf77qCFJ1cGRpbukAeEJXJytTO20ah-yookmlBxHB53?width=256&height=140&cropmode=none)
+Print do Sorteio dos temas do projeto para Avaliação OFICIAL 2
+
+
+### Com base na ordem do sorterio
+ - ERIK UNBEHAUN FERRAZ - Tema 2
+ - FLAVIA OMODEI DE ANDRADE - Tema 3
+ - HENRY MAKOTO ITO - Tema 5
+ - LINEKER DOS SANTOS NOGUEIRA - Tema 1
+ - LUCAS TENAN VILAS BOAS - Tema 4
+ - RUAN MARQUES DA SILVA - Tema 2
+ - VANDER WENDER CRISPIM COSTA - Tema 3
+ - VICTOR JOSE RECHI FIORI - Tema 5
