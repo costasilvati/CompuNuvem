@@ -97,7 +97,8 @@ Para cada uma das 5 aulas anteriores, DESENVOLVA:
 - [Atividade PARCIAL](https://forms.gle/MJ6tUwDF44cjLB428)
 
 ## Aula 13 - 02/06/2022
-Como avaliação 2 os alunos deverão desenvolver uma apostila Online (página Git) sobre um tema de computação em Nuvem e enviar o link e apresentar essa apostila no dia da avaliação; 
+Olá!
+Ficou definido que: como avaliação OFICIAL 2, os alunos deverão desenvolver uma apostila Online (página Git ou HTML + CSS) sobre um tema de computação em Nuvem. Além disso o aluno deverá enviar o link e apresentar essa apostila no dia da avaliação; 
 
 O tema por aluno será sorteado, porém alguns alunos farão temas repetidos, visto que temos 5 temas e 8 alunos. Apesar disso a atividade é **INDIVIDUAL**;
 
@@ -122,3 +123,27 @@ Print do Sorteio dos temas do projeto para Avaliação OFICIAL 2
  - RUAN MARQUES DA SILVA - Tema 2
  - VANDER WENDER CRISPIM COSTA - Tema 3
  - VICTOR JOSE RECHI FIORI - Tema 5
+
+
+# AVALIAÇÃO OFICIAL 2
+O aluno deve desenvolver uma apostila Online (página Git ou HTML + CSS) sobre um tema de computação em Nuvem. O tema por aluno foi sorteado na aula 13. 
+
+O aluno deverá enviar o link de acesso a sua apostila e apresentar essa apostila no dia da avaliação, além de responder duas perguntas sobre o tema feitas pela professora.
+
+Regras para da avaliação:
+- A página WEB desenvolvida deve conter textos escritos pelo aluno (cópia total ou parcial de: livros, sites e qualquer outra fonte, **receberá nota 0.0**);
+- A página deve conter no mínimo 3 seções (ou páginas), essas seções devem ser as seguintes:
+- Seção 1 -> O que é ![Tema do aluno](#)
+- Seção 2 -> Funcionamento computacional (em detalhes) e Qual a utilidade?
+- Seção 3 ->  Exemplos reais do tema (serviços, sites, plataformas, softwares que implementam o conceito) - mínimo 3;
+- Para apresentar o conteúdo o aluno pode usar, imagens, animações, vídeos, links, áudios, etc;
+- Ao utilizar algo que não foi desenvolvido pelo aluno, o mesmo deve citar a fonte (Exemplo: Vídeo do Youtube - Fonte: Canal Manual do Mundo)
+- Todos os materiais utilizados na pesquisa devem ser citados na seção 4 - Referências (Seção obrigatória);
+
+Será avaliada:
+1. Qualidade do material desenvolvido (recursos utilizados, texto, fonte de dados, design)=  25% da nota;
+2. Pesquisa desenvolvida (O aluno pesquisou várias fontes para desenvolver a atividade? O material ajuda um estudante a entender o tema?) = 25% da nota;
+3. Domínio do tema (O aluno entende o tema que está apresentando?) = 25% da nota;
+4. Apresentação (Soube explicar o que estava apresentando? Entendeu o que apresentava? Respondeu corretamente as perguntas?) - 25% da nota;
+
+**[ENVIO DO LINK - AVALIAÇÃO OFICIAL 2](https://forms.gle/SUGgMoa7Rsr1GNCr7)**
