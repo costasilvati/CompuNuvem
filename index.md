@@ -3,9 +3,9 @@
 # Computação em Nuvem
 Prof. Me. Juliana Costa-Silva
 
-## ATENÇÃO!!! 
-Em parceira da Kroton com a **AWS Academy** será disponibilizado aos alunos treinamento para a certificação em Cloud da AWS **de forma gratuita** para os nossos alunos.
-[As inscrições devem ser realizadas no formulário:](https://forms.office.com/r/ppSMfcFx6d)
+## ATENÇÃO!!! 2ª CHAMADA 20 e 21/06/2022
+[AVALIAÇÃO 2ª CHAMADA OFICIAL 1 - Disponível no formulário:](https://forms.gle/QVv5BNqxzSVpQs736)
+[AVALIAÇÃO 2ª CHAMADA OFICIAL 2 - Disponível no formulário:](https://forms.gle/tHPkctrY6zEwNMw27)
 
 ## Aula 1 - 03/03/2022
 
@@ -147,3 +147,8 @@ Será avaliada:
 4. Apresentação (Soube explicar o que estava apresentando? Entendeu o que apresentava? Respondeu corretamente as perguntas?) - 25% da nota;
 
 **[ENVIO DO LINK - AVALIAÇÃO OFICIAL 2](https://forms.gle/SUGgMoa7Rsr1GNCr7)**
+
+
+## ATENÇÃO!!! 2ª CHAMADA 20 e 21/06/2022
+[AVALIAÇÃO 2ª CHAMADA OFICIAL 1 - Disponível no formulário:](https://forms.gle/QVv5BNqxzSVpQs736)
+[AVALIAÇÃO 2ª CHAMADA OFICIAL 2 - Disponível no formulário:](https://forms.gle/tHPkctrY6zEwNMw27)
