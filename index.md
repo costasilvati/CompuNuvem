@@ -5,6 +5,7 @@ Prof. Me. Juliana Costa-Silva
 
 ## ATENÇÃO!!! EXAME 22/06/2022 (Quarta-feira)
 - Atividade presencial - sala E03
+- [Link do EXAME AQUI as 19:00hs](https://forms.gle/UstCcRpU9iRKf6na8)
 
 
 ## Aula 1 - 03/03/2022
