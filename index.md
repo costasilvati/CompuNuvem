@@ -3,9 +3,9 @@
 # Computação em Nuvem
 Prof. Me. Juliana Costa-Silva
 
-## ATENÇÃO!!! 2ª CHAMADA 20 e 21/06/2022
-- [AVALIAÇÃO 2ª CHAMADA OFICIAL 1 - Disponível no formulário:](https://forms.gle/QVv5BNqxzSVpQs736)
-- [AVALIAÇÃO 2ª CHAMADA OFICIAL 2 - Disponível no formulário:](https://forms.gle/tHPkctrY6zEwNMw27)
+## ATENÇÃO!!! EXAME 22/06/2022 (Quarta-feira)
+- Atividade presencial - sala E03
+
 
 ## Aula 1 - 03/03/2022
 
